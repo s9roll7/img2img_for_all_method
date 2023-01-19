@@ -1,0 +1,3 @@
+cyber punk girl, realistic, photograph, masterpiece, best quality, masterpiece, 1girl, bangs, blue_eyes, cat_ear_headphones, eyebrows_visible_through_hair, facial_mark, fake_animal_ears, headphones, hood, hood_down, jacket, looking_at_viewer, purple_hair, science_fiction, solo, twintails
+Negative prompt:  lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name, lowres, cropped, worst quality, low quality, normal quality, jpeg artifacts,watermark, signature
+Steps: 50, Sampler: DPM++ SDE Karras, CFG scale: 20, Seed: 567871220, Size: 512x512, Model hash: bbf07e3a1c, Denoising strength: 0.35, Mask blur: 4

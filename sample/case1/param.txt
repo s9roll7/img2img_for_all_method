@@ -1,0 +1,3 @@
+kill-la-kill, anime screencap, flat color, masterpiece, best quality, masterpiece, 1girl, bare_shoulders, brown_eyes, collarbone, earrings, forehead,jewelry, lips, looking_at_viewer, portrait, realistic, short_hair, smile, simple background, yellow background
+Negative prompt:  lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name, lowres, cropped, worst quality, low quality, normal quality, jpeg artifacts,watermark, signature
+Steps: 50, Sampler: Euler a, CFG scale: 20, Seed: 954360842, Size: 512x512, Model hash: 8712e20a5d, Denoising strength: 0.35, Mask blur: 4
